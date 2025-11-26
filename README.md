@@ -44,7 +44,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">   </p>
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/BrandCraft2207/B-Pagina-plata/refs/heads/main/SoloWebinnar.png">    
+  <img src="https://raw.githubusercontent.com/BrandCraft2207/B-Pagina-plata/refs/heads/main/src/SoloWebinnar.png">    
                      </p>
       
 
