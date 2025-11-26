@@ -11,12 +11,23 @@
 </p>
 
 
-  <p align="center">
-  <a href="https://solowebinar.vercel.app/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/🚀 Ir%20a%20Solo%20Webinnar-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Ir a Solo Webinnar"
-    />
+ <p align="center">
+  <a  href="https://solowebinar.vercel.app/"  target="_blank" 
+     style="
+       display: inline-block;
+       background: linear-gradient(135deg, #6A00FF, #9F00FF);
+       padding: 14px 28px;
+       border-radius: 50px;
+       text-decoration: none;
+       color: white;
+       font-size: 16px;
+       font-weight: 700;
+       box-shadow: 0 5px 18px rgba(110, 0, 255, 0.35);
+       transition: 0.25s ease;
+     "
+     onmouseover="this.style.transform='scale(1.06)';"
+     onmouseout="this.style.transform='scale(1)';">
+    🚀 Ver Modelo
   </a>
 </p>
  <div style="font-family: 'Segoe UI', sans-serif; line-height: 1.6;">
@@ -61,10 +72,58 @@
   <h2 style="font-weight: 700;"  align="center">
   Sitios Web Empresariales 
   </h2>
+
+  <p align="center" style="font-size: 18px; font-weight: 600; color: #555; font-family: 'Segoe UI', sans-serif;">
+ Plan Oro 
+</p>
    
   <p align="center">
-  <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/SoloWebinaegi.gif?raw=true"/>
+  <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/Ecoforma.gif?raw=true"/>
 </p>
+<!-- ====== SECCIÓN PROFESIONAL SOBRE IMPORTANCIA DE UNA WEB ====== -->
+
+<div align="center" style="font-family: 'Segoe UI', sans-serif; max-width: 900px; margin: auto;">
+
+  <h1 style="color: #6A00FF; font-weight: 800; margin-bottom: 5px;">
+    🌐 La Importancia de Tener una Página Web Profesional
+  </h1>
+
+  <p style="font-size: 16px; color: #333; line-height: 1.6;">
+    En la era digital, tu página web es la carta de presentación de tu empresa.  
+    Una web moderna transmite confianza, muestra profesionalismo y te posiciona frente a tu competencia.
+  </p>
+
+  <p style="font-size: 16px; color: #333; line-height: 1.6;">
+    Además, una web bien optimizada para <strong>SEO</strong> mejora tu visibilidad en Google,  
+    aumenta el tráfico orgánico y atrae clientes que realmente buscan tus servicios.  
+    No se trata solo de estar online, sino de ser encontrado por quienes te necesitan.
+  </p>
+
+  <p style="font-size: 16px; color: #333; line-height: 1.6; margin-bottom: 25px;">
+    Convertir visitantes en clientes es mucho más fácil cuando tu marca tiene un espacio  
+    propio, profesional y disponible las 24 horas del día.
+  </p>
+
+  <!-- ====== BOTÓN PROFESIONAL ====== -->
+  <a href="https://web-design-creative.vercel.app/" target="_blank" 
+     style="
+       display: inline-block;
+       background: linear-gradient(135deg, #6A00FF, #9F00FF);
+       padding: 14px 28px;
+       border-radius: 50px;
+       text-decoration: none;
+       color: white;
+       font-size: 16px;
+       font-weight: 700;
+       box-shadow: 0 5px 18px rgba(110, 0, 255, 0.35);
+       transition: 0.25s ease;
+     "
+     onmouseover="this.style.transform='scale(1.06)';"
+     onmouseout="this.style.transform='scale(1)';">
+    🚀 Ver Modelo
+  </a>
+
+</div>
 
 
 </div>
