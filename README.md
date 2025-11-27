@@ -10,26 +10,24 @@
   <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/SoloWebinaegi.gif?raw=true"/>
 </p>
 
-
- <p align="center">
-  <a  href="https://solowebinar.vercel.app/"  target="_blank" 
+<div align="center">
+  <a href="https://solowebinar.vercel.app/" target="_blank" 
      style="
        display: inline-block;
-       background: linear-gradient(135deg, #6A00FF, #9F00FF);
-       padding: 14px 28px;
-       border-radius: 50px;
-       text-decoration: none;
+       padding: 12px 22px;
+       background: linear-gradient(135deg, #4F46E5, #6366F1);
        color: white;
-       font-size: 16px;
-       font-weight: 700;
-       box-shadow: 0 5px 18px rgba(110, 0, 255, 0.35);
-       transition: 0.25s ease;
-     "
-     onmouseover="this.style.transform='scale(1.06)';"
-     onmouseout="this.style.transform='scale(1)';">
-    🚀 Ver Modelo
+       text-decoration: none;
+       font-size: 18px;
+       font-weight: bold;
+       border-radius: 10px;
+       box-shadow: 0 4px 14px rgba(0,0,0,0.15);
+       transition: 0.3s;
+     ">
+    🌐 Visitar mi Página Web
   </a>
-</p>
+</div>
+  
  <div style="font-family: 'Segoe UI', sans-serif; line-height: 1.6;">
 
   <h2 style="color: #6A00FF; font-weight: 800; margin-bottom: 5px;">
@@ -105,32 +103,32 @@
   </p>
 
   <!-- ====== BOTÓN PROFESIONAL ====== -->
+   
+<div align="center">
   <a href="https://web-design-creative.vercel.app/" target="_blank" 
      style="
        display: inline-block;
-       background: linear-gradient(135deg, #6A00FF, #9F00FF);
-       padding: 14px 28px;
-       border-radius: 50px;
-       text-decoration: none;
+       padding: 12px 22px;
+       background: linear-gradient(135deg, #4F46E5, #6366F1);
        color: white;
-       font-size: 16px;
-       font-weight: 700;
-       box-shadow: 0 5px 18px rgba(110, 0, 255, 0.35);
-       transition: 0.25s ease;
-     "
-     onmouseover="this.style.transform='scale(1.06)';"
-     onmouseout="this.style.transform='scale(1)';">
-    🚀 Ver Modelo
+       text-decoration: none;
+       font-size: 18px;
+       font-weight: bold;
+       border-radius: 10px;
+       box-shadow: 0 4px 14px rgba(0,0,0,0.15);
+       transition: 0.3s;
+     ">
+    🌐 Visitar mi Página Web
   </a>
-
 </div>
-<!-- ====== GALERÍA: 3 IMÁGENES POR FILA (LISTO PARA README) ====== -->
-<div align="center" style="max-width: 1100px; margin: 0 auto;">
+</div>
+ </br>
+<div align="center" style="max-width: 1100px; margin:  auto;">
 
   <!-- Fila 1 -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <img src="images/imagen1.png" alt="Mockup 1" style="width: 32%; max-width: 340px; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
-    <img src="images/imagen2.png" alt="Mockup 2" style="width: 32%; max-width: 340px; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
+    <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/Arqui/home_arqui.png?raw=true" alt="Mockup 1" style="width: 32%; max-width: 340px; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
+    <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/Arqui/servicios_arqui.png?raw=true" alt="Mockup 2" style="width: 32%; max-width: 340px; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
    
   </div>
 
@@ -139,11 +137,11 @@
 
   <!-- Fila 2 -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <img src="images/imagen4.png" alt="Mockup 4" style="width: 32%; max-width: 340px; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
-    <img src="images/imagen5.png" alt="Mockup 5" style="width: 32%; max-width: 340px; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
+    <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/Arqui/potafolio_arqui.png?raw=true" alt="Mockup 4" style="width: 32%; max-width: 340px; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
+    <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/Arqui/contacto_arqui.png?raw=true" alt="Mockup 5" style="width: 32%; max-width: 340px; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
  
   </div>
-
+ 
 </div>
 <!-- ====== FIN GALERÍA ====== -->
 
