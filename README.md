@@ -80,7 +80,7 @@
 </p>
 <!-- ====== SECCIÓN PROFESIONAL SOBRE IMPORTANCIA DE UNA WEB ====== -->
 
-<div align="center" style="font-family: 'Segoe UI', sans-serif; max-width: 900px; margin: auto;">
+<div   style="font-family: 'Segoe UI', sans-serif; max-width: 900px; margin: auto;">
 
   <h1 style="color: #6A00FF; font-weight: 800; margin-bottom: 5px;">
     🌐 La Importancia de Tener una Página Web Profesional
@@ -123,28 +123,31 @@
 </div>
 </div>
  </br>
-<div align="center" style="max-width: 1100px; margin:  auto;">
-
+ 
+ 
+ 
+ <!-- ====== FIN GALERÍA ====== -->
   <!-- Fila 1 -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/Arqui/home_arqui.png?raw=true" alt="Mockup 1" style="width: 32%; max-width: 340px; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
-    <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/Arqui/servicios_arqui.png?raw=true" alt="Mockup 2" style="width: 32%; max-width: 340px; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
-   
+  <div align="center">
+    <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/Arqui/home_arqui.png?raw=true" alt="Mockup 1" style=" border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
+  </div>
+   </br>
+   <div align="center">
+   <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/Arqui/servicios_arqui.png?raw=true" alt="Mockup 2" style=" border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
+  </div>
+   </br>
+   <div align="center">
+    <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/Arqui/potafolio_arqui.png?raw=true" alt="Mockup 4" style=" border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
+  </div>
+   </br>
+   <div align="center">
+  <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/Arqui/contacto_arqui.png?raw=true" alt="Mockup 5" style= border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
   </div>
 
-  <!-- Separador opcional -->
-  <div style="height: 18px;"></div>
-
-  <!-- Fila 2 -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/Arqui/potafolio_arqui.png?raw=true" alt="Mockup 4" style="width: 32%; max-width: 340px; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
-    <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/Arqui/contacto_arqui.png?raw=true" alt="Mockup 5" style="width: 32%; max-width: 340px; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
  
-  </div>
- 
-</div>
-<!-- ====== FIN GALERÍA ====== -->
 
+    
+ 
 
 </div>
 <!-- ==== FIN HEADER ==== -->
