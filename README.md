@@ -124,6 +124,28 @@
   </a>
 
 </div>
+<!-- ====== GALERÍA: 3 IMÁGENES POR FILA (LISTO PARA README) ====== -->
+<div align="center" style="max-width: 1100px; margin: 0 auto;">
+
+  <!-- Fila 1 -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <img src="images/imagen1.png" alt="Mockup 1" style="width: 32%; max-width: 340px; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
+    <img src="images/imagen2.png" alt="Mockup 2" style="width: 32%; max-width: 340px; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
+   
+  </div>
+
+  <!-- Separador opcional -->
+  <div style="height: 18px;"></div>
+
+  <!-- Fila 2 -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+    <img src="images/imagen4.png" alt="Mockup 4" style="width: 32%; max-width: 340px; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
+    <img src="images/imagen5.png" alt="Mockup 5" style="width: 32%; max-width: 340px; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
+ 
+  </div>
+
+</div>
+<!-- ====== FIN GALERÍA ====== -->
 
 
 </div>
