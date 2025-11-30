@@ -9,7 +9,7 @@
   <p align="center">
   <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/SoloWebinaegi.gif?raw=true"/>
 </p>
-
+ 
 <div align="center">
   <a href="https://solowebinar.vercel.app/" target="_blank" 
      style="
@@ -66,7 +66,14 @@
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/BrandCraft2207/B-Pagina-plata/refs/heads/main/src/SoloWebinnar.png">    
                      </p>
-      
+<h3> 
+
+Modelo de mascotas 
+</h1>
+<p align="center"> 
+  <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/mascota/ImgMascotas.png?raw=true">    
+                     </p>
+      <!-- Seccion ORO -->
   <h2 style="font-weight: 700;"  align="center">
   Sitios Web Empresariales 
   </h2>
