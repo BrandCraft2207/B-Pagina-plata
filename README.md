@@ -66,10 +66,10 @@
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/BrandCraft2207/B-Pagina-plata/refs/heads/main/src/SoloWebinnar.png">    
                      </p>
-<h3> 
-
-Modelo de mascotas 
-</h1>
+ 
+  <h2 align="center" style="color: #6A00FF; font-weight: 800; margin-bottom: 5px;">
+    🌐 Modelo #2 Plan Plata
+  </h2>
 <p align="center"> 
   <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/mascota/ImgMascotas.png?raw=true">    
                      </p>
@@ -78,9 +78,9 @@ Modelo de mascotas
   Sitios Web Empresariales 
   </h2>
 
-  <p align="center" style="font-size: 18px; font-weight: 600; color: #555; font-family: 'Segoe UI', sans-serif;">
- Plan Oro 
-</p>
+  <h2 align="center" style="color: #6A00FF; font-weight: 800; margin-bottom: 5px;">
+    🌐 Plan Oro Paginas empresariales completa
+  </h2>
    
   <p align="center">
   <img src="https://github.com/BrandCraft2207/B-Pagina-plata/blob/main/src/Ecoforma.gif?raw=true"/>
